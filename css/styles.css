@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    height: 8vh;
+    text-align: center;
+    padding: 15px 0;
+    background-color: rgb(26, 26, 100);
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.heading{
+    color: aliceblue;
+}
+
+.card{
+    margin: auto;
+    width: 50%;
+    box-shadow: 1px 1px 1px 1px  rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px 40px;
+}
+
+.heading-secondary{
+    margin: 20 20px;
+    padding: 20px;
+
+}
